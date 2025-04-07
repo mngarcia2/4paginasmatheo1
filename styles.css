@@ -1,0 +1,83 @@
+body{
+    background: url(imagenes/fondo2.jpg);
+}
+
+.imagendelinicio{
+    margin-left: 25%;
+    margin-top: 10%;
+}
+
+.textodelinicio{
+    color: aliceblue;
+    margin-left: 41%;
+}
+
+.imagenairpod1{
+    margin-left: 25%;
+    margin-top: 7%;
+}
+
+.imagenairpod3{
+    margin-left: 25%;
+    margin-top: 7%;
+}
+
+.lilili{
+    color: aliceblue;
+    text-align: center;
+}
+
+.carousel-inner{
+    margin-left: 28%;
+}
+
+.airpod111{
+    text-align: center;
+    color: aliceblue;
+    
+}
+
+.airpod2da{
+    text-align: center;
+    color: aliceblue;
+}
+
+.airpod4ta{
+    text-align: center;
+    color: aliceblue;
+}
+
+.diferencias2{
+    text-align: center;
+}
+
+.table{
+    background-color: rgb(213, 182, 182);
+}
+
+.imagen9{
+    text-align: center;
+}
+
+.probmaos1 {
+    margin-left: 7%;
+    margin-right: 16%;
+    float: inline-start;
+}
+
+.probamos2{ 
+    margin-left: 1%;
+    width: 30%;
+    float: inline-start;
+}
+
+.probamos3{
+    float: inline-start;
+}   
+
+.pieeds{
+    margin-top: 3%;
+    background-color: rgb(76, 65, 65);
+    color: aquamarine;
+    padding: 2%;
+}
